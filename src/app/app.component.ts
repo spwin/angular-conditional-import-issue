@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
+  template: `{{ title }}`,
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'angular-conditional-import-issue';
