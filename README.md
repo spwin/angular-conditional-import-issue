@@ -4,8 +4,8 @@ This is a reproduction repo for conditionally imported module being included in 
 
 ## Runnning
 
-`yarn && npm run build` - builds the project.
-`npm run analyse` - runs the `webpack-bundle-analyzer` to see the bundle size increase
+- `yarn && npm run build` - builds the project.
+- `npm run analyse` - runs the `webpack-bundle-analyzer` to see the bundle size increase
 
 ## What's wrong?
 
